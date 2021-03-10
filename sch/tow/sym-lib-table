@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name SparkFun-IC-Microcontroller)(type Legacy)(uri /home/ian/Documents/SparkFun-IC-Microcontroller.lib)(options "")(descr ""))
+  (lib (name SparkFun-LED)(type Legacy)(uri /home/ian/Downloads/SparkFun-LED.lib)(options "")(descr ""))
+  (lib (name SparkFun-Resistors)(type Legacy)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Resistors.lib)(options "")(descr ""))
+  (lib (name SparkFun-Switches)(type Legacy)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Switches.lib)(options "")(descr ""))
+  (lib (name SparkFun-Clocks)(type Legacy)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Clocks.lib)(options "")(descr ""))
+  (lib (name SparkFun-Capacitors)(type Legacy)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-Capacitors.lib)(options "")(descr ""))
+  (lib (name SparkFun-IC-Power)(type Legacy)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Libraries/SparkFun-IC-Power.lib)(options "")(descr ""))
+)

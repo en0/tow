@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name LED)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/LED.pretty)(options "")(descr ""))
+  (lib (name Switches)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/Switches.pretty)(options "")(descr ""))
+  (lib (name Capacitors)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/Capacitors.pretty)(options "")(descr ""))
+  (lib (name Electromechanical)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/Electromechanical.pretty)(options "")(descr ""))
+  (lib (name Resistors)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/Resistors.pretty)(options "")(descr ""))
+  (lib (name Clocks)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/Clocks.pretty)(options "")(descr ""))
+  (lib (name PowerSymbols)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/PowerSymbols.pretty)(options "")(descr ""))
+  (lib (name Silicon-Standard)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/Silicon-Standard.pretty)(options "")(descr ""))
+  (lib (name Silicon-Custom)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/Silicon-Custom.pretty)(options "")(descr ""))
+  (lib (name Jumpers)(type KiCad)(uri /home/ian/Downloads/SparkFun-KiCad-Libraries-master/Footprints/Jumpers.pretty)(options "")(descr ""))
+)
