@@ -228,28 +228,6 @@ Wire Wire Line
 	6750 4400 6750 4900
 Wire Wire Line
 	6750 4900 6900 4900
-$Comp
-L Device:R_US R3
-U 1 1 603B20AC
-P 9050 4300
-F 0 "R3" V 8845 4300 50  0000 C CNN
-F 1 "1k" V 8936 4300 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 9090 4290 50  0001 C CNN
-F 3 "~" H 9050 4300 50  0001 C CNN
-	1    9050 4300
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R_US R4
-U 1 1 603B51A8
-P 9050 4900
-F 0 "R4" V 8845 4900 50  0000 C CNN
-F 1 "1k" V 8936 4900 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 9090 4890 50  0001 C CNN
-F 3 "~" H 9050 4900 50  0001 C CNN
-	1    9050 4900
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	6900 4700 6900 4750
 Wire Wire Line
@@ -632,19 +610,7 @@ Wire Wire Line
 Wire Wire Line
 	650  2500 650  2550
 Wire Wire Line
-	8900 4300 6900 4300
-Connection ~ 6900 4300
-Wire Wire Line
 	6900 4750 10050 4750
-Wire Wire Line
-	9200 4300 9600 4300
-Wire Wire Line
-	6900 4900 8900 4900
-Connection ~ 6900 4900
-Wire Wire Line
-	9200 4900 9600 4900
-Wire Wire Line
-	9600 4900 9600 4300
 Wire Wire Line
 	6900 5350 10050 5350
 Wire Wire Line
@@ -662,9 +628,4 @@ Wire Wire Line
 	3050 1750 2900 1750
 Wire Wire Line
 	2900 1750 2900 1950
-Text Label 9750 4300 2    50   ~ 0
-5v
-Wire Wire Line
-	9600 4300 9750 4300
-Connection ~ 9600 4300
 $EndSCHEMATC
